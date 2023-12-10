@@ -1,0 +1,57 @@
+﻿{
+  "applicationCaption": "Prilozhenie_43",
+  "applicationTitle": "Prilozhenie_43",
+  "items": [
+    {
+      "link": null,
+      "menuName": "prilozhenie-43",
+      "caption": "Prilozhenie_43",
+      "title": "Prilozhenie_43",
+      "children": [
+        {
+          "link": "i-i-s-prilozhenie-43-справ-род-l",
+          "menuName": null,
+          "caption": "Справ род",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-43-класс-уч-l",
+          "menuName": null,
+          "caption": "Класс уч",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-43-справ-уч-l",
+          "menuName": null,
+          "caption": "Справ уч",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-43-карт-доступ-l",
+          "menuName": null,
+          "caption": "Карт доступ",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-43-справ-долж-l",
+          "menuName": null,
+          "caption": "Справ долж",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-prilozhenie-43-справ-сотр-l",
+          "menuName": null,
+          "caption": "Справ сотр",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

@@ -1,0 +1,1 @@
+docker-compose -p prilozhenie_43 up -d
