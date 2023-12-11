@@ -11,42 +11,42 @@
         {
           "link": "i-i-s-prilozhenie-43-справ-род-l",
           "menuName": null,
-          "caption": "Справ род",
+          "caption": "Справочник Родители",
           "title": "",
           "children": null
         },
         {
           "link": "i-i-s-prilozhenie-43-класс-уч-l",
           "menuName": null,
-          "caption": "Класс уч",
+          "caption": "Класс Ученика",
           "title": "",
           "children": null
         },
         {
           "link": "i-i-s-prilozhenie-43-справ-уч-l",
           "menuName": null,
-          "caption": "Справ уч",
+          "caption": "Справочник Ученика",
           "title": "",
           "children": null
         },
         {
           "link": "i-i-s-prilozhenie-43-карт-доступ-l",
           "menuName": null,
-          "caption": "Карт доступ",
+          "caption": "База Данных",
           "title": "",
           "children": null
         },
         {
           "link": "i-i-s-prilozhenie-43-справ-долж-l",
           "menuName": null,
-          "caption": "Справ долж",
+          "caption": "Справочник Должности",
           "title": "",
           "children": null
         },
         {
           "link": "i-i-s-prilozhenie-43-справ-сотр-l",
           "menuName": null,
-          "caption": "Справ сотр",
+          "caption": "Справочник Сотрудники",
           "title": "",
           "children": null
         }

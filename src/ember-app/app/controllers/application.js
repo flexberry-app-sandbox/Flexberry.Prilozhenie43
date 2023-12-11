@@ -28,37 +28,35 @@ export default Controller.extend({
             link: 'i-i-s-prilozhenie-43-справ-род-l',
             caption: i18n.t('forms.application.sitemap.prilozhenie-43.i-i-s-prilozhenie-43-справ-род-l.caption'),
             title: i18n.t('forms.application.sitemap.prilozhenie-43.i-i-s-prilozhenie-43-справ-род-l.title'),
-            icon: 'address card',
+            icon: 'book',
             children: null
           }, {
             link: 'i-i-s-prilozhenie-43-класс-уч-l',
             caption: i18n.t('forms.application.sitemap.prilozhenie-43.i-i-s-prilozhenie-43-класс-уч-l.caption'),
             title: i18n.t('forms.application.sitemap.prilozhenie-43.i-i-s-prilozhenie-43-класс-уч-l.title'),
-            icon: 'book',
+            icon: 'folder',
             children: null
           }, {
             link: 'i-i-s-prilozhenie-43-справ-уч-l',
             caption: i18n.t('forms.application.sitemap.prilozhenie-43.i-i-s-prilozhenie-43-справ-уч-l.caption'),
             title: i18n.t('forms.application.sitemap.prilozhenie-43.i-i-s-prilozhenie-43-справ-уч-l.title'),
-            icon: 'archive',
+            icon: 'book',
             children: null
           }, {
             link: 'i-i-s-prilozhenie-43-карт-доступ-l',
             caption: i18n.t('forms.application.sitemap.prilozhenie-43.i-i-s-prilozhenie-43-карт-доступ-l.caption'),
             title: i18n.t('forms.application.sitemap.prilozhenie-43.i-i-s-prilozhenie-43-карт-доступ-l.title'),
-            icon: 'suitcase',
             children: null
           }, {
             link: 'i-i-s-prilozhenie-43-справ-долж-l',
             caption: i18n.t('forms.application.sitemap.prilozhenie-43.i-i-s-prilozhenie-43-справ-долж-l.caption'),
             title: i18n.t('forms.application.sitemap.prilozhenie-43.i-i-s-prilozhenie-43-справ-долж-l.title'),
-            icon: 'chart line',
             children: null
           }, {
             link: 'i-i-s-prilozhenie-43-справ-сотр-l',
             caption: i18n.t('forms.application.sitemap.prilozhenie-43.i-i-s-prilozhenie-43-справ-сотр-l.caption'),
             title: i18n.t('forms.application.sitemap.prilozhenie-43.i-i-s-prilozhenie-43-справ-сотр-l.title'),
-            icon: 'paperclip',
+            icon: 'calendar',
             children: null
           }]
         }
